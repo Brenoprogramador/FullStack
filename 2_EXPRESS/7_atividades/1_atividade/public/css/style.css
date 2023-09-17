@@ -1,0 +1,19 @@
+h1{
+    font-size: 5rem;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: cornsilk;
+}
+
+.link{
+    border: 2px solid black;
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    text-decoration: none;
+}
